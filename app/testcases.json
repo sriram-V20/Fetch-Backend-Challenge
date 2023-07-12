@@ -1,0 +1,245 @@
+[
+  {
+    "retailer": "Target",
+    "purchaseDate": "2022-01-01",
+    "purchaseTime": "13:01",
+    "items": [
+      {
+        "shortDescription": "Mountain Dew 12PK",
+        "price": "6.49"
+      },{
+        "shortDescription": "Emils Cheese Pizza",
+        "price": "12.25"
+      },{
+        "shortDescription": "Knorr Creamy Chicken",
+        "price": "1.26"
+      },{
+        "shortDescription": "Doritos Nacho Cheese",
+        "price": "3.35"
+      },{
+        "shortDescription": "   Klarbrunn 12-PK 12 FL OZ  ",
+        "price": "12.00"
+      }
+    ],
+    "total": "35.35",
+    "expectedPoints" : 28
+  },
+  {
+    "retailer": "M&M Corner Market",
+    "purchaseDate": "2022-03-20",
+    "purchaseTime": "14:33",
+    "items": [
+      {
+        "shortDescription": "Gatorade",
+        "price": "2.25"
+      },{
+        "shortDescription": "Gatorade",
+        "price": "2.25"
+      },{
+        "shortDescription": "Gatorade",
+        "price": "2.25"
+      },{
+        "shortDescription": "Gatorade",
+        "price": "2.25"
+      }
+    ],
+    "total": "9.00",
+    "expectedPoints" : 109
+  },
+  {
+    "retailer": "walmart",
+    "purchaseDate": "2022-03-21",
+    "purchaseTime": "16:00",
+    "items": [
+      {
+        "shortDescription": "chicken breast Boneless",
+        "price": "12.25"
+      },{
+        "shortDescription": "pineapple",
+        "price": "4.25"
+      },{
+        "shortDescription": "MinuteMaid juice pulp",
+        "price": "5.25"
+      },{
+        "shortDescription": "apples",
+        "price": "2.25"
+      }
+    ],
+    "total": "24.00",
+    "expectedPoints" : 102
+  },
+  {
+    "retailer": "Food4Less",
+    "purchaseDate": "2023-07-03",
+    "purchaseTime": "15:00",
+    "items": [],
+    "total": "0.00",
+    "expectedPoints" : 25
+  },
+  {
+    "retailer": "Food4Less",
+    "purchaseDate": "2023-07-03",
+    "purchaseTime": "15:00",
+    "items": [
+      {
+        "shortDescription": "Japanese Suntory whiskey",
+        "price": "12.25"
+      }
+    ],
+    "total": "12.25",
+    "expectedPoints" : 53
+  },
+  {
+    "retailer": "Target",
+    "purchaseDate": "2023-07-02",
+    "purchaseTime": "10:30",
+    "items": [
+      {
+        "shortDescription": "ground beef steak",
+        "price": "16.50"
+      },
+      {
+        "shortDescription": "oranges",
+        "price": "4.00"
+      }
+    ],
+    "total": "20.50",
+    "expectedPoints" : 36
+  },
+  {
+    "retailer": "Costco",
+    "purchaseDate": "2023-01-01",
+    "purchaseTime": "00:15",
+    "items": [
+      {
+        "shortDescription": "bulk rice",
+        "price": "35.00"
+      },
+      {
+        "shortDescription": "bulk beans",
+        "price": "25.00"
+      },
+      {
+        "shortDescription": "bulk flour",
+        "price": "18.00"
+      }
+    ],
+    "total": "78.00",
+    "expectedPoints" : 99
+  },
+  {
+    "retailer": "walmart",
+    "purchaseDate": "2022-03-13",
+    "purchaseTime": "16:00",
+    "items": [
+      {
+        "shortDescription": "chicken breast Boneless",
+        "price": "14.25"
+      }
+    ],
+    "total": "14.25",
+    "expectedPoints" : 38
+  },
+  {
+    "retailer": "Amazon",
+    "purchaseDate": "2023-02-05",
+    "purchaseTime": "12:00",
+    "items": [
+      {
+        "shortDescription": "How to Cook book",
+        "price": "12.99"
+      },
+      {
+        "shortDescription": "stainless steel pot",
+        "price": "24.99"
+      }
+    ],
+    "total": "37.98",
+    "expectedPoints" : 17
+  },
+  {
+    "retailer": "BestBuy",
+    "purchaseDate": "2023-07-01",
+    "purchaseTime": "14:20",
+    "items": [
+      {
+        "shortDescription": "Samsung TV",
+        "price": "399.99"
+      }
+    ],
+    "total": "400.00",
+    "expectedPoints" : 98
+  },
+  {
+    "retailer": "Whole Foods",
+    "purchaseDate": "2023-06-30",
+    "purchaseTime": "13:15",
+    "items": [
+      {
+        "shortDescription": "organic bananas",
+        "price": "1.99"
+      },
+      {
+        "shortDescription": "organic apples",
+        "price": "2.99"
+      },
+      {
+        "shortDescription": "organic oranges",
+        "price": "3.99"
+      }
+    ],
+    "total": "8.97",
+    "expectedPoints" : 17
+  },
+  {
+    "retailer": "Target",
+    "purchaseDate": "2023-07-05",
+    "purchaseTime": "15:45",
+    "items": [
+      {
+        "shortDescription": "women's shirt",
+        "price": "19.99"
+      }
+    ],
+    "total": "19.99",
+    "expectedPoints" : 22
+  },
+  {
+    "retailer": "IKEA",
+    "purchaseDate": "2023-07-03",
+    "purchaseTime": "17:30",
+    "items": [
+      {
+        "shortDescription": "bookshelf",
+        "price": "59.99"
+      }
+    ],
+    "total": "59.99",
+    "expectedPoints" : 22
+  },
+  {
+    "retailer": "Home Depot",
+    "purchaseDate": "2023-06-29",
+    "purchaseTime": "16:45",
+    "items": [
+      {
+        "shortDescription": "power drill",
+        "price": "89.99"
+      },
+      {
+        "shortDescription": "screws pack",
+        "price": "9.99"
+      }
+    ],
+    "total": "99.98",
+    "expectedPoints" : 20
+  },
+  {
+    "retailer": "",
+    "purchaseDate": "",
+    "purchaseTime": "",
+    "items": [],
+    "total": "",
+    "expectedPoints" : 0
+  }
+]

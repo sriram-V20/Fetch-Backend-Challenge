@@ -1,0 +1,57 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 2 initial tasks for 2 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(ReceiptWebServiceTest, sbt.ForkMain$AnnotatedFingerscan@6d86b085, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest[0m finished, took 2.195 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest2[0m finished, took 0.097 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest3[0m finished, took 0.086 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest4[0m finished, took 0.091 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest5[0m finished, took 0.075 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mgetPointsTest[0m finished, took 0.063 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest2[0m finished, took 0.062 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest3[0m finished, took 0.131 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest4[0m finished, took 0.105 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptWebServiceTest[0m.[36mprocessReceiptTest5[0m finished, took 0.069 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 10 total, 2.975s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 10 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(ReceiptProcessingServiceTest, sbt.ForkMain$AnnotatedFingerscan@75828a0f, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints1[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints1[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints3[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints4[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestPoints5[0m finished, took 0.0 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt[0m finished, took 0.002 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt2[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt2[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt3[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt3[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt4[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt4[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt5[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mReceiptProcessingServiceTest[0m.[36mtestProcessingReceipt5[0m finished, took 0.001 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 10 total, 0.01s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 10 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 20, Failed 0, Errors 0, Passed 20[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReceiptProcessingServiceTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReceiptWebServiceTest[0m

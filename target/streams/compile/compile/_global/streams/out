@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sriramvemparala/Desktop/Fetch/Fetch-Backend-Challenge/app/views/welcome.scala.html:85:34: value AsyncController is not a member of object controllers.routes[0m
+[0m[[0m[31merror[0m] [0m[0m                <a href="@routes.AsyncController.message">Click here for the AsyncController action!</a>[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/sriramvemparala/Desktop/Fetch/Fetch-Backend-Challenge/app/views/welcome.scala.html:99:34: value CountController is not a member of object controllers.routes[0m
+[0m[[0m[31merror[0m] [0m[0m                <a href="@routes.CountController.count">Click here for the CountController action!</a>[0m
+[0m[[0m[31merror[0m] [0m[0m                                 ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

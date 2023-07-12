@@ -1,0 +1,3 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sriramvemparala/Desktop/Fetch/Fetch-Backend-Challenge/test/ReceiptProcessingServiceTest.java:29:1: variable receiptProcessingService not initialized in the default constructor[0m
+[0m[[0m[31merror[0m] [0m[0m@Inject[0m
+[0m[[0m[31merror[0m] [0m[0m    private final ReceiptProcessingService receiptProcessingService;[0m
