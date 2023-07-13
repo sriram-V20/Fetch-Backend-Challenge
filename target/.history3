@@ -2,3 +2,6 @@
 1689044620412:compile
 1689044624143:run
 1689045153997:stage
+1689185362854:ProcedureSyntax
+1689185371958:scalafix ProcedureSyntax
+1689185425923:scalafix RemoveUnused

@@ -3,5 +3,5 @@
 # ~~~~
 
 #FETCH_BACKEND_CHALLENGE APIS
-POST    /receipts/process        controllers.ReceiptProcessorController.processReceipt(request: Request)
+POST    /receipts/process           controllers.ReceiptProcessorController.processReceipt(request: Request)
 GET     /receipts/:id/points        controllers.ReceiptProcessorController.getPoints(request: Request,id: String)

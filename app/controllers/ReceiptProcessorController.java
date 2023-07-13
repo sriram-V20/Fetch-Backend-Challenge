@@ -2,27 +2,27 @@ package controllers;
 
 import Models.Receipt;
 import akka.actor.ActorSystem;
-import javax.inject.*;
-
 import akka.actor.Scheduler;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import play.libs.Json;
-import play.mvc.*;
-
-import java.util.HashMap;
-import java.util.UUID;
-import java.util.concurrent.Executor;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.CompletionStage;
-import java.util.concurrent.TimeUnit;
-import java.util.function.Supplier;
-
+import play.mvc.Controller;
+import play.mvc.Http;
+import play.mvc.Result;
+import play.mvc.Results;
 import scala.concurrent.ExecutionContext;
-import scala.concurrent.duration.Duration;
 import scala.concurrent.ExecutionContextExecutor;
 import services.ReceiptProcessingService;
+
+import javax.inject.Inject;
+import javax.inject.Singleton;
+import java.util.HashMap;
+import java.util.UUID;
+import java.util.concurrent.CompletableFuture;
+import java.util.concurrent.CompletionStage;
+import java.util.concurrent.Executor;
+import java.util.function.Supplier;
 
 /**
  * This controller processes requests in non-blocking approach i.e processing them asynchronously

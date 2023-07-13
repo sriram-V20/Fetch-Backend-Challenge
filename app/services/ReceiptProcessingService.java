@@ -2,8 +2,8 @@ package services;
 
 import Models.Receipt;
 
-import java.util.Hashtable;
 import javax.inject.Singleton;
+import java.util.Hashtable;
 import java.util.UUID;
 
 @Singleton
