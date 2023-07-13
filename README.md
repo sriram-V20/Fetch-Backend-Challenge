@@ -81,6 +81,8 @@
 
 `ReceiptProcessingServiceTest`: This test focuses on unit tests for the functionality of the receipt processing service. This test verifies the behavior and correctness of the core business logic related to receipt processing, calculating points.
 
+`Testcases` : This file contains the inputs for tests run in ReceiptWebServiceTest and  ReceiptProcessingServiceTest.
+
 
 ##Assumptions :
 
